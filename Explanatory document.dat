@@ -1,0 +1,24 @@
+=========CSEM_3D_FORWADRD IN MIXDED DOMAIN=============
+-------------------------------------------------------
+------------------Frequency Minimum£º                           1000
+------------------Frequency Maximum£º                          1000
+-----------------Number of frequencies£º                        1
+-------------------------------------------------------
+-------------Number of nodes in x-direction£º                 51
+-------------Number of nodes in y-direction£º                 51
+-------------Number ofwavenumbers in x-direction£º     101
+-------------Number ofwavenumbers in y-direction£º     101
+-------------Number of nodes in z-direction£º                 75
+--------- ----Grid spacing in x-direction£º                         40.
+-------------Grid spacing in y-direction£º                         40.
+-------------Grid spacing in z-direction£º                          10
+-------------Number of grids in air£º                                11
+-------------------------------------------------------
+-------------Starting point of x-direction coordinates£º    -1000.
+-------------Starting point of y-direction coordinates£º    -1000.
+-------------------------------------------------------
+--------------Background conductivity£º                          0.01
+--------------Total  conductivity£º                                     0.1
+---------------Maximum number of iterations£º                21
+-------------------------------------------------------
+   
